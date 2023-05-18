@@ -1,0 +1,182 @@
+body {
+    background-image: url(img/%D1%84%D0%BE%D0%BD1.jpg);
+}
+<style>
+      table, td, th { 
+      }
+table { width: 85%; }
+th { height: 10px; }
+.alt td { background-color: black; 
+}
+.table_block{
+    background: #D2691E; /* Цвет фона */
+    color: white; /* Цвет текста */
+    padding: 10px; /* Поля вокруг текста */
+    border-radius: 0px; /* Уголки */
+}
+.first { border-collapse: collapse; }
+table { margin: 10px auto; }
+.center{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.text2{
+    font-family: Comic Sans MS;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+.text3{
+    font-family: helvetica;
+    color: white;
+    text-align:center;
+    font-size: 45px;
+}
+.text31{
+    font-family: Comic Sans MS;
+    color: white;
+    text-align:center;
+    font-size: 30px;
+}
+.text4{
+    font-family: helvetica;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.lin{
+    border-left: 2px solid #800000;
+    height: 450px;
+}
+.text5{
+    font-family: helvetica;
+    color: #FFFFFF;
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5px;
+}
+.text7{
+    font-family: Comic Sans MS;
+    color: #FFFFFF;
+    text-align: left;
+    font-size: 30px;
+    margin-left: 21px;
+}
+.text6{
+    font-family: Comic Sans MS;
+    color: #FFFFFF;
+    text-align: left;
+    font-size: 15px;
+    margin-left: 5px;
+}
+.text8{
+    font-family: Comic Sans MS;
+    color: #FFFFFF;
+    text-align: left;
+    font-size: 15px;
+    margin-left: 10px;
+    text-decoration: none;
+}
+.text9{
+    font-family: Comic Sans MS;
+    color: #FFFFFF;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 10px;
+    text-decoration: none;
+}
+.text12{
+    font-family: Comic Sans MS;
+    color: white;
+    text-align: right;
+    font-size: 15px;
+    margin-right: 20px;
+}
+.text31{
+    font-family: Comic Sans MS;
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 0px;
+    margin-right: 20px;
+    font-style: italic;
+}
+.text101{
+    font-family: Comic Sans MS;
+    color: #FFFFFF;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 0px;}
+.text102{
+    font-family: Comic Sans MS;
+    color: #FFFFFF;
+    text-align: left;
+    font-size: 15px;
+    margin-left: 0px;}
+.text103{
+    font-family: Comic Sans MS;
+    color: #FFFFFF;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 10px;
+    text-decoration: none;}
+#kvadr1{
+    width: 315px;
+	height: 60px;
+	background: #FF0000;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+#kvadr1:hover {background: #1F1B1B; color: #fff;}
+#kvadr2{
+    width: 315px;
+	height: 75px;
+	background: #FF0000;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+#kvadr2:hover {background: #1F1B1B; color: #fff;}
+#kvadr3{
+    width: 315px;
+	height: 75px;
+	background: #FF0000;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+#kvadr3:hover {background: #1F1B1B; color: #fff;}
+#kvadr4{
+    width: 315px;
+	height: 95px;
+	background: #FF0000;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+#kvadr4:hover {background: #1F1B1B; color: #fff;}
+.rectangle{
+width: 20%;
+height: 50px;
+border:1px solid;
+margin:auto;
+background-color: #D2691E;
+border-radius: 0px;
+}
+.text_center_middle{
+font-family: helvetica;
+color: #D2691E;
+text-align: center;
+line-height: 50px;
+}
+
+
+
+
+
